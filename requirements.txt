@@ -21,7 +21,6 @@ defusedxml==0.6.0
 Deprecated==1.2.10
 distlib==0.3.2
 Django==3.2.3
-django-bootstrap4 @ file:///C:/Users/C%26R/django-bootstrap4
 django-filter==2.4.0
 djangorestframework==3.12.4
 djangorestframework-datatables==0.6.0

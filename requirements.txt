@@ -1,9 +1,0 @@
-Django==3.2.3
-django-filter==2.4.0
-djangorestframework==3.12.4
-djangorestframework-datatables==0.6.0
-pipenv==2021.5.29
-requests==2.24.0
-requests-toolbelt==0.9.1
-virtualenv==20.4.7
-virtualenv-clone==0.5.4
